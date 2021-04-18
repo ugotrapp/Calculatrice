@@ -1,0 +1,55 @@
+.touches {
+    display:flex;
+    justify-content: center;
+    width: 20%;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+
+    
+}
+
+.ecran {
+
+    background-color: black;
+    height: 100px;
+    width: 20%;
+    color: white;
+    font-size: 40px;
+    text-align: end;
+    border: 1px solid black;
+}
+
+.egal {
+    background-color: cornflowerblue;
+    color: cornsilk;
+}
+
+.ac {
+    background-color: red;
+    color: white;
+}
+
+.bouton--color {
+    color: cadetblue;
+    font-weight: bold;
+
+}
+
+button {
+
+    width: 100px;
+    height:100px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+p {
+    
+    max-width: 20%;
+    height: 100px;
+}
+
+
